@@ -9,6 +9,7 @@ def func1():
 def func2():
     print("Mina ka (Joonas)")
 
+
 def func3():
     arv1=4
     arv2=5
@@ -21,10 +22,16 @@ def main():
     func1()
     func2()
     func3()
+    func4()
     print("Programmi töö lõpp")
 
 
 if __name__ == "__main__":
     main()
+	
+def func4():
+    print ("Nansy Ly tegi töö ära")
+
 
 #huehuehuehuehuehuehuehuehuehuehuehuehue
+
