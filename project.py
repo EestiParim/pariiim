@@ -26,5 +26,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
+	
+def func4():
+	print ("Nansy Ly tegi töö ära")
+=======
 
 #huehuehuehuehuehuehuehuehuehuehuehuehue
+
