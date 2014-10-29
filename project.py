@@ -13,14 +13,14 @@ def func3():
     arv1=4
     arv2=5
     vanus=((arv1*arv2)-1)
-    Print ("Tõnise vanus on:",vanus)
+    print("Tõnise vanus on:",vanus)
 
 
 def main():
     print("Programm alustab tööd")
     func1()
     func2()
-	func3()
+    func3()
     print("Programmi töö lõpp")
 
 
