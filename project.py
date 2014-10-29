@@ -20,6 +20,7 @@ def main():
     print("Programm alustab tööd")
     func1()
     func2()
+	func3()
     print("Programmi töö lõpp")
 
 
