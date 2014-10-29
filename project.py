@@ -21,16 +21,16 @@ def main():
     func1()
     func2()
 	func3()
+	func4()
     print("Programmi töö lõpp")
 
 
 if __name__ == "__main__":
     main()
-<<<<<<< HEAD
 	
 def func4():
 	print ("Nansy Ly tegi töö ära")
-=======
+
 
 #huehuehuehuehuehuehuehuehuehuehuehuehue
 
