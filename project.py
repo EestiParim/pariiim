@@ -16,6 +16,8 @@ def func3():
     vanus=((arv1*arv2)-1)
     print("Tõnise vanus on:",vanus)
 
+def func4():
+    print ("Nansy Ly tegi töö ära")
 
 def main():
     print("Programm alustab tööd")
@@ -28,9 +30,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-	
-def func4():
-    print ("Nansy Ly tegi töö ära")
 
 
 #huehuehuehuehuehuehuehuehuehuehuehuehue
