@@ -5,3 +5,9 @@ def func1():
 
 def func2():
     print("Mina ka (Joonas)")
+
+def main():
+	print("Programm alustab tööd")
+	func1()
+	func2()
+	print("Programmi töö lõpp")
